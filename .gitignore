@@ -1,0 +1,24 @@
+# Arduino / ESP32
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.o
+*.s
+*.i
+*.asm
+
+# 编译输出文件夹
+build/
+.cache/
+.pio/
+
+# VSCode
+.vscode/
+*.code-workspace
+.arduino/
+
+# 系统文件
+.DS_Store
+Thumbs.db
